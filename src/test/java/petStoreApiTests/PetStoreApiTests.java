@@ -206,8 +206,8 @@ public class PetStoreApiTests {
 	
 	@AfterTest
 	public void cleanup() {
-		deleteTheCat();
-		deleteThePet();
+		//deleteTheCat();
+		//deleteThePet();
 	}
 	
 	// negative test cases 
